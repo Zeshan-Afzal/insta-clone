@@ -185,4 +185,7 @@
   .small-screen-login{
     width:90%; 
 }
+    .small-footer {
+    display: none;
+  }
 }
